@@ -90,9 +90,3 @@
     <img src="Image/menu_delete_2.png" width="252" height="448">
     <img src="Image/delete_food_3.png" width="252" height="448">
 </div>
-
-<hr/>
-<h2>All Information Store in Database</h2>
-<div style{display: inline;}>
-    <img src="Image/allOrderPlaceInFirebase.PNG">
-</div>
