@@ -52,27 +52,19 @@
 </div>
 
 <hr/>
-<h2>Menu, Food under menu and Food details with cart</h2>
+<h2>Update Menu Item</h2>
 <div style{display: inline;}>
-    <img src="Image/Screenshot_2018-04-25-03-17-57.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-18-15.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-18-21.png" width="252" height="448">
+    <img src="Image/menu_update_1.png" width="252" height="448">
+    <img src="Image/menu_update_2.png" width="252" height="448">
+    <img src="Image/menu_update_3.png" width="252" height="448">
 </div>
 
 <hr/>
-<h2>Food details, CollapsToolBar, Food Add to Cart</h2>
+<h2>Delete Menu Item</h2>
 <div style{display: inline;}>
-    <img src="Image/Screenshot_2018-04-25-03-18-21.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-18-27.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-18-37.png" width="252" height="448">
-</div>
-
-<hr/>
-<h2>Order Ready for Place, Place Order and Display Orders</h2>
-<div style{display: inline;}>
-    <img src="Image/Screenshot_2018-04-25-03-19-00.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-19-07.png" width="252" height="448">
-    <img src="Image/Screenshot_2018-04-25-03-19-27.png" width="252" height="448">
+    <img src="Image/menu_delete_1.png" width="252" height="448">
+    <img src="Image/menu_delete_2.png" width="252" height="448">
+    <img src="Image/menu_delete_3.png" width="252" height="448">
 </div>
 
 <hr/>
