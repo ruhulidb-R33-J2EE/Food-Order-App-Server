@@ -68,6 +68,22 @@
 </div>
 
 <hr/>
+<h2>Add Food Item Under Menu Item</h2>
+<div style{display: inline;}>
+    <img src="Image/food_item_1.png" width="252" height="448">
+    <img src="Image/food_item_2.png" width="252" height="448">
+    <img src="Image/food_item_3.png" width="252" height="448">
+</div>
+
+<hr/>
+<h2>Add Food Item Under Menu Item</h2>
+<div style{display: inline;}>
+    <img src="Image/delete_food_1.png" width="252" height="448">
+    <img src="Image/delete_food_2.png" width="252" height="448">
+    <img src="Image/menu_delete_2.png" width="252" height="448">
+</div>
+
+<hr/>
 <h2>All Information Store in Database</h2>
 <div style{display: inline;}>
     <img src="Image/allOrderPlaceInFirebase.PNG">
