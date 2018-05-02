@@ -1,7 +1,16 @@
 <h1>Name : Food Order App Server</ha>
-
 <hr/>
 
+<h3>Project Features</h3>
+<ol>
+  <li>Login option for Authority no registration option</li>
+  <li>Firebase Authentication</li>
+  <li>Create, Update and Delete different type of food menu</li>
+  <li>Add different type of food under a menu item</li>
+  <li>Create, Update and Delete food item</li>
+</ol>
+
+<hr/>
 <h3>Development Tools &Technologies</h3>
 <ul>
   <li>Java</li>
@@ -31,16 +40,6 @@
   <li>MaterialEditText : For responsiv EditText design</li>
   <li>Picasso : Powerful image downloading and caching library for Android</li>
   <li>firebase-auth : For user authentication</li>
-</ol>
-
-<hr/>
-<h3>Project Features</h3>
-<ol>
-  <li>Login option for Authority no registration option</li>
-  <li>Firebase Authentication</li>
-  <li>Create, Update and Delete different type of food menu</li>
-  <li>Add different type of food under a menu item</li>
-  <li>Create, Update and Delete food item</li>
 </ol>
 
 <hr/>
