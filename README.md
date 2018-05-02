@@ -79,8 +79,8 @@
 <h2>Add Food Item Under Menu Item</h2>
 <div style{display: inline;}>
     <img src="Image/delete_food_1.png" width="252" height="448">
-    <img src="Image/delete_food_3.png" width="252" height="448">
     <img src="Image/menu_delete_2.png" width="252" height="448">
+    <img src="Image/delete_food_3.png" width="252" height="448">
 </div>
 
 <hr/>
