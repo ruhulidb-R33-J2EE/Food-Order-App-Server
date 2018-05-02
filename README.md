@@ -52,6 +52,14 @@
 </div>
 
 <hr/>
+<h2>Add Menu Item</h2>
+<div style{display: inline;}>
+    <img src="Image/menu_add_1.png" width="252" height="448">
+    <img src="Image/menu_add_2.png" width="252" height="448">
+    <img src="Image/menu_add_3.png" width="252" height="448">
+</div>
+
+<hr/>
 <h2>Update Menu Item</h2>
 <div style{display: inline;}>
     <img src="Image/menu_update_1.png" width="252" height="448">
